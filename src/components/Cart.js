@@ -1,6 +1,6 @@
 // src/components/Cart.js
 import React from 'react';
-
+//hello
 const Cart = ({ cartItems }) => {
   return (
     <div className="cart">
